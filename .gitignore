@@ -1,0 +1,18 @@
+# Folders
+/.DS_Store/
+/.vs/
+/.vscode/
+/Library/
+/obj/
+/Temp/
+/Logs/
+/UserSettings/
+/Simple Pong 4_Data/
+
+# Files
+*.csproj
+*.sln
+*.VC.db
+/steam_appid.txt
+*.apk
+*Simple Pong 4.exe

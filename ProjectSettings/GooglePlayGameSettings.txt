@@ -1,0 +1,10 @@
+lastUpgrade=01012
+proj.pluginVersion=0.10.12
+proj.AppId=924547978147
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--Google+Play+game+services+IDs.+Save+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--app_id--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e924547978147%3c%2fstring%3e%0d%0a++%3c%21--package_name--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.idownward.soccerpongnew%3c%2fstring%3e%0d%0a++%3c%21--achievement+first--%3e%0d%0a++%3cstring+name%3d%22achievement_first%22+translatable%3d%22false%22%3eCgkIo6fqmvQaEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--achievement+asdasd--%3e%0d%0a++%3cstring+name%3d%22achievement_asdasd%22+translatable%3d%22false%22%3eCgkIo6fqmvQaEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--achievement+qweqw--%3e%0d%0a++%3cstring+name%3d%22achievement_qweqw%22+translatable%3d%22false%22%3eCgkIo6fqmvQaEAIQBQ%3c%2fstring%3e%0d%0a++%3c%21--achievement+qwewe--%3e%0d%0a++%3cstring+name%3d%22achievement_qwewe%22+translatable%3d%22false%22%3eCgkIo6fqmvQaEAIQBg%3c%2fstring%3e%0d%0a++%3c%21--achievement+dfgdfg--%3e%0d%0a++%3cstring+name%3d%22achievement_dfgdfg%22+translatable%3d%22false%22%3eCgkIo6fqmvQaEAIQBw%3c%2fstring%3e%0d%0a++%3c%21--leaderboard+Wall+Mode+Ranking--%3e%0d%0a++%3cstring+name%3d%22leaderboard_wall_mode_ranking%22+translatable%3d%22false%22%3eCgkIo6fqmvQaEAIQAQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=
+proj.requireGPlus=false
+android.SetupDone=true
+and.BundleId=com.idownward.soccerpongnew
